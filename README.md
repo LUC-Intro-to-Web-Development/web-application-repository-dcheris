@@ -1,7 +1,7 @@
 # Dominique Cheris
 # Anime Generator
 
-Description of application *Describe how someone will use your application
+- Description of application *Describe how someone will use your application
 - The Anime Generator can be used to pick an Anime based on the user's input. 
 - Describe the need and purpose of the application
 The purpose of this application is to help users select an anime.
