@@ -1,0 +1,20 @@
+{
+  "name": "web-application-repository-dcheris",
+  "version": "1.0.0",
+  "description": "Description of application *Describe how someone will use your application - The Anime Generator can be used to pick an Anime based on the user's input.  - Describe the need and purpose of the application The purpose of this application is to help users select an anime. - Intended target audience The intended audience is anyone who loves anime, or interested in anime, who would like to get recommendations on what anime to watch. - Identify the various pages your application will have and describe what users will be able to accomplish There will be a page dedicated to receiving the user's input to determine what anime they may be interested in. Another page devoted to generating the actual anime. A page dedicated to displaying all anime in the database. And potentially, a few pages dedicated to displaying bookmarked anime and a favorites feed. - Identify three goals of the application 1. To get input from the user 2. Generate anime recommendations based on user input. 3. Display anime recommendations, database and favorites. - Identify tools/software you will use to complete the project. If you are completing the application as part of a team, you will also need to identify collaboration tools. # Tools - Visual Studio Code - Node.js - Crunchyroll API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dcheris: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@github.com/LUC-Intro-to-Web-Development/web-application-repository-dcheris.git"
+  },
+  "keywords": [],
+  "author": "dcheris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LUC-Intro-to-Web-Development/web-application-repository-dcheris/issues"
+  },
+  "homepage": "https://github.com/LUC-Intro-to-Web-Development/web-application-repository-dcheris#readme"
+}
