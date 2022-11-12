@@ -2,6 +2,7 @@ const http = require("http")
 const fs = require("fs")
 
 
+
 const server = http.createServer(function(req, res) {
 
     if (req.url == '/home'  && req.method == "GET"){
@@ -38,6 +39,8 @@ const server = http.createServer(function(req, res) {
         res.end()
     })
     }
-if (err.code ---)
+//if (err.code ---)
 
 }).listen(3000)
+
+
