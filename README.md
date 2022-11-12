@@ -18,4 +18,7 @@ There will be a page dedicated to receiving the user's input to determine what a
 - Visual Studio Code
 - Node.js
 - Crunchyroll API
+- Pixabay : Logo by <a href="https://pixabay.com/users/adibox69-25431872/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6970968">
+- Color: Adobe
+- Font: Google Fonts
 
