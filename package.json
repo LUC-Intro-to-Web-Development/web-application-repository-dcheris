@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LUC-Intro-to-Web-Development/web-application-repository-dcheris#readme",
   "dependencies": {
-    "crunchyroll.ts": "^0.4.1"
+    "crunchyroll.ts": "^0.4.1",
+    "router": "^1.3.7"
   }
 }
