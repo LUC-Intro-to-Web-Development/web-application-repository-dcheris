@@ -1,8 +1,11 @@
 const http = require('http');
+const host = 'localhost';
+const port = 8000;
+
 const server = http.createServer(function(req, res){
 
 if (req.url == '/home' && req.method == 'GET'){
-    res.write("This is the home page");
+    res.write(200,"This is the home page");
     res.end();
 
         }else{
@@ -10,4 +13,4 @@ if (req.url == '/home' && req.method == 'GET'){
         res.end();
     }
 
-}).listen(3000);
+}).listen(8000);
